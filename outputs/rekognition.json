@@ -1,0 +1,73 @@
+{
+    "Labels": [
+        {
+            "Confidence": 98.94244384765625, 
+            "Name": "People"
+        }, 
+        {
+            "Confidence": 98.94247436523438, 
+            "Name": "Person"
+        }, 
+        {
+            "Confidence": 98.89730834960938, 
+            "Name": "Human"
+        }, 
+        {
+            "Confidence": 98.74980163574219, 
+            "Name": "Bicycle"
+        }, 
+        {
+            "Confidence": 98.74980163574219, 
+            "Name": "Bike"
+        }, 
+        {
+            "Confidence": 98.74980163574219, 
+            "Name": "Mountain Bike"
+        }, 
+        {
+            "Confidence": 98.74980163574219, 
+            "Name": "Vehicle"
+        }, 
+        {
+            "Confidence": 63.516944885253906, 
+            "Name": "Cyclist"
+        }, 
+        {
+            "Confidence": 55.42314147949219, 
+            "Name": "Team"
+        }, 
+        {
+            "Confidence": 55.42314147949219, 
+            "Name": "Team Sport"
+        }, 
+        {
+            "Confidence": 55.16213607788086, 
+            "Name": "Rubble"
+        }, 
+        {
+            "Confidence": 54.97353744506836, 
+            "Name": "Flagstone"
+        }, 
+        {
+            "Confidence": 53.61406707763672, 
+            "Name": "Outdoors"
+        }, 
+        {
+            "Confidence": 53.61406707763672, 
+            "Name": "Wilderness"
+        }, 
+        {
+            "Confidence": 53.004634857177734, 
+            "Name": "Rock"
+        }, 
+        {
+            "Confidence": 52.0548095703125, 
+            "Name": "Path"
+        }, 
+        {
+            "Confidence": 52.0548095703125, 
+            "Name": "Trail"
+        }
+    ], 
+    "OrientationCorrection": "ROTATE_0"
+}

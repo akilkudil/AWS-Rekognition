@@ -1,0 +1,4 @@
+1. The s3 region and rekognition region has to be same.
+
+
+aws rekognition detect-labels --image '{"S3Object":{"Bucket": "aideep","Name": "MtnBikingWomen.jpg"}}' > D://rekognition.json
